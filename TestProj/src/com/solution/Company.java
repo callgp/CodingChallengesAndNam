@@ -10,6 +10,7 @@ class Company {
 	// non static method
 	public void nonStaticMethod() {
 		System.out.println("Company: non-Static method");
+		System.out.println("test commit in git");
 	}
 }
  
