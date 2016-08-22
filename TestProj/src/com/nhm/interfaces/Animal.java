@@ -1,4 +1,4 @@
-package com.nam.interfaces;
+package com.nhm.interfaces;
 public interface Animal {
     public void move();
 

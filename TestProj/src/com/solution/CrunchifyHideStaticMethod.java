@@ -1,6 +1,6 @@
 package com.solution;
 
-import com.nam.Company;
+import com.solution.Company;
 
 /**
  * @author Crunchify.com
